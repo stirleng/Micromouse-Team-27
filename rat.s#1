@@ -3454,6 +3454,15 @@
 <junction x="66.04" y="-91.44"/>
 <wire x1="66.04" y1="-91.44" x2="66.04" y2="-76.2" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="2"/>
+<pinref part="U2" gate="G$1" pin="VOUT@4"/>
+<wire x1="55.88" y1="-91.44" x2="55.88" y2="-93.98" width="0.1524" layer="91"/>
+<junction x="55.88" y="-91.44"/>
+<pinref part="U2" gate="G$1" pin="VOUT@2"/>
+<wire x1="55.88" y1="-93.98" x2="55.88" y2="-96.52" width="0.1524" layer="91"/>
+<junction x="55.88" y="-93.98"/>
+<pinref part="U2" gate="G$1" pin="VOUT@3"/>
+<wire x1="55.88" y1="-96.52" x2="55.88" y2="-99.06" width="0.1524" layer="91"/>
+<junction x="55.88" y="-96.52"/>
 </segment>
 </net>
 <net name="N$3" class="0">
